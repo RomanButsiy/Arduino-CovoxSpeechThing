@@ -1,0 +1,13 @@
+# ARDUINO-Covox Speech Thing
+<a href="https://raw.githubusercontent.com/RomanButsiy/Arduino-CovoxSpeechThing/master/screens/Screen1.png"><img src="https://raw.githubusercontent.com/RomanButsiy/Arduino-CovoxSpeechThing/master/screens/Screen1.png" align="left" height="220" width="425" ></a>
+<a href="https://raw.githubusercontent.com/RomanButsiy/Arduino-CovoxSpeechThing/master/screens/Screen2.jpg"><img src="https://raw.githubusercontent.com/RomanButsiy/Arduino-CovoxSpeechThing/master/screens/Screen2.jpg" align="left" height="220" width="425" ></a>
+<a href="https://raw.githubusercontent.com/RomanButsiy/Arduino-CovoxSpeechThing/master/screens/Screen3.jpg"><img src="https://raw.githubusercontent.com/RomanButsiy/Arduino-CovoxSpeechThing/master/screens/Screen3.jpg" align="left" height="220" width="425" ></a>
+<a href="https://raw.githubusercontent.com/RomanButsiy/Arduino-CovoxSpeechThing/master/screens/Screen4.png"><img src="https://raw.githubusercontent.com/RomanButsiy/Arduino-CovoxSpeechThing/master/screens/Screen4.png" align="left" height="220" width="425" ></a>
+
+##
+##
+ - Розробив Roman
+ - Канал на YouTube: https://goo.gl/x8FL2o
+ - Відео з проектом:  
+ - Після перегляду відео “386й ноутбук возвращается: Звук!” https://youtu.be/3rtj_jx8bck, я вирішив спробувати об’єднати Covox Speech Thing з Arduino
+## 2018 Roman
