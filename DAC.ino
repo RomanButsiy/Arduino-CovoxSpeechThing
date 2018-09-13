@@ -44,7 +44,6 @@ String getFileNames() {
     File entry;
     File root = SD.open("/");
     root.rewindDirectory(); 
-    
     String FileName = "";
     for (uint8_t i = 0; fileSelect != (i - 1); ) { 
         entry =  root.openNextFile();
