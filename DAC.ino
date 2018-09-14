@@ -14,8 +14,7 @@ uint8_t fileSelect = 0;
 void setup() {
   pinMode(8, INPUT);
   // Open serial communications and wait for port to open:
-  Serial.begin(9600);
-
+  Serial.begin(9600);  
   Serial.print("Initializing SD card...");
 
   if (!SD.begin(10)) {
@@ -69,13 +68,13 @@ void openFile(String FileName) {
     // read from the file until there's nothing else in it:
     while (root.available()) {
       PORTD = root.read();
-      for(int i = 0; i < 100; i++)
+      for(int i = 0; i < 89; i++)
       __asm("nop");
       if (digitalRead(8) == LOW) {
-        delay(300);
+        delay(300);  
         root.close();
         return;
-        }
+       }
     }
     // close the file:
     root.close();
