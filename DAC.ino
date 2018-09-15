@@ -1,7 +1,7 @@
 /*
  - Розробив Roman
  - Канал на YouTube: https://goo.gl/x8FL2o
- - Відео з проектом:  
+ - Відео з проектом: https://youtu.be/8AksFNU6aIg
  - Після перегляду відео “386й ноутбук возвращается: Звук!” https://youtu.be/3rtj_jx8bck, я вирішив спробувати об’єднати Covox Speech Thing з Arduino
 */
 
