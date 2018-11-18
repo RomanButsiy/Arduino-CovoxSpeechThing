@@ -13,6 +13,7 @@ uint8_t fileSelect = 0;
 
 void setup() {
   pinMode(8, INPUT);
+  for(uint8_t i = 0; i < 8; pinMode(i++, OUTPUT));
   // Open serial communications and wait for port to open:
   Serial.begin(9600);  
   Serial.print("Initializing SD card...");
