@@ -1,10 +1,29 @@
 # ARDUINO-Covox Speech Thing
-<a href="https://raw.githubusercontent.com/RomanButsiy/Arduino-CovoxSpeechThing/master/screens/Screen1.png"><img src="https://raw.githubusercontent.com/RomanButsiy/Arduino-CovoxSpeechThing/master/screens/Screen1.png" align="left" height="220" width="425" ></a>
-<a href="https://raw.githubusercontent.com/RomanButsiy/Arduino-CovoxSpeechThing/master/screens/Screen2.jpg"><img src="https://raw.githubusercontent.com/RomanButsiy/Arduino-CovoxSpeechThing/master/screens/Screen2.jpg" align="left" height="220" width="425" ></a>
-<a href="https://raw.githubusercontent.com/RomanButsiy/Arduino-CovoxSpeechThing/master/screens/Screen3.jpg"><img src="https://raw.githubusercontent.com/RomanButsiy/Arduino-CovoxSpeechThing/master/screens/Screen3.jpg" align="left" height="220" width="425" ></a>
-<a href="https://raw.githubusercontent.com/RomanButsiy/Arduino-CovoxSpeechThing/master/screens/Screen4.png"><img src="https://raw.githubusercontent.com/RomanButsiy/Arduino-CovoxSpeechThing/master/screens/Screen4.png" align="left" height="220" width="425" ></a>
-
-##
+<a href="https://raw.githubusercontent.com/RomanButsiy/Arduino-CovoxSpeechThing/master/screens/Screen1.png"><img src="https://raw.githubusercontent.com/RomanButsiy/Arduino-CovoxSpeechThing/master/screens/Screen1.png" align="left" height="220" width="400" ></a>
+<a href="https://raw.githubusercontent.com/RomanButsiy/Arduino-CovoxSpeechThing/master/screens/Screen2.jpg"><img src="https://raw.githubusercontent.com/RomanButsiy/Arduino-CovoxSpeechThing/master/screens/Screen2.jpg" align="left" height="220" width="400" ></a>
+<a href="https://raw.githubusercontent.com/RomanButsiy/Arduino-CovoxSpeechThing/master/screens/Screen3.jpg"><img src="https://raw.githubusercontent.com/RomanButsiy/Arduino-CovoxSpeechThing/master/screens/Screen3.jpg" align="left" height="220" width="400" ></a>
+<a href="https://raw.githubusercontent.com/RomanButsiy/Arduino-CovoxSpeechThing/master/screens/Screen4.png"><img src="https://raw.githubusercontent.com/RomanButsiy/Arduino-CovoxSpeechThing/master/screens/Screen4.png" align="left" height="220" width="400" ></a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ##
  - Розробив Roman
  - Канал на YouTube: https://goo.gl/x8FL2o
