@@ -9,7 +9,6 @@
 <a href="https://raw.githubusercontent.com/RomanButsiy/Arduino-CovoxSpeechThing/master/screens/Screen4.png"><img src="https://raw.githubusercontent.com/RomanButsiy/Arduino-CovoxSpeechThing/master/screens/Screen4.png" align="left" height="220" width="425" ></a>
 <br>
 ##
-##
  - Розробив Roman
  - Канал на YouTube: https://goo.gl/x8FL2o
  - Відео з проектом: https://youtu.be/8AksFNU6aIg
