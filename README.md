@@ -1,9 +1,13 @@
 # ARDUINO-Covox Speech Thing
+<br>
 <a href="https://raw.githubusercontent.com/RomanButsiy/Arduino-CovoxSpeechThing/master/screens/Screen1.png"><img src="https://raw.githubusercontent.com/RomanButsiy/Arduino-CovoxSpeechThing/master/screens/Screen1.png" align="left" height="220" width="425" ></a>
+<br>
 <a href="https://raw.githubusercontent.com/RomanButsiy/Arduino-CovoxSpeechThing/master/screens/Screen2.jpg"><img src="https://raw.githubusercontent.com/RomanButsiy/Arduino-CovoxSpeechThing/master/screens/Screen2.jpg" align="left" height="220" width="425" ></a>
+<br>
 <a href="https://raw.githubusercontent.com/RomanButsiy/Arduino-CovoxSpeechThing/master/screens/Screen3.jpg"><img src="https://raw.githubusercontent.com/RomanButsiy/Arduino-CovoxSpeechThing/master/screens/Screen3.jpg" align="left" height="220" width="425" ></a>
+<br>
 <a href="https://raw.githubusercontent.com/RomanButsiy/Arduino-CovoxSpeechThing/master/screens/Screen4.png"><img src="https://raw.githubusercontent.com/RomanButsiy/Arduino-CovoxSpeechThing/master/screens/Screen4.png" align="left" height="220" width="425" ></a>
-
+<br>
 ##
 ##
  - Розробив Roman
