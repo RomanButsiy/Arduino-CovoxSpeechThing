@@ -5,7 +5,9 @@
  - Після перегляду відео “386й ноутбук возвращается: Звук!” https://youtu.be/3rtj_jx8bck, я вирішив спробувати об’єднати Covox Speech Thing з Arduino
 */
 
-#include <SPI.h>
+//sox input.wav -b 8 -c 1 -r 14400 output.wav remix -
+
+//#include <SPI.h>
 #include <SD.h>
 
 uint8_t fileCount = 0;
@@ -13,7 +15,7 @@ uint8_t fileSelect = 0;
 
 void setup() {
   pinMode(8, INPUT);
-  for(uint8_t i = 0; i < 8; pinMode(i++, OUTPUT));
+  for(uint8_t i = 2; i < 8; pinMode(i++, OUTPUT));
   // Open serial communications and wait for port to open:
   Serial.begin(9600);  
   Serial.print("Initializing SD card...");
@@ -65,18 +67,24 @@ void openFile(String FileName) {
   if (root) {
     Serial.print(FileName);
     Serial.println(" is opened");
-
+    Serial.end();
+    pinMode(0, OUTPUT);
+    pinMode(1, OUTPUT);
     // read from the file until there's nothing else in it:
     while (root.available()) {
       PORTD = root.read();
       for(int i = 0; i < 89; i++)
       __asm("nop");
       if (digitalRead(8) == LOW) {
+        Serial.begin(9600); 
+        Serial.println();
         delay(300);  
         root.close();
         return;
        }
     }
+    Serial.begin(9600); 
+    Serial.println();
     // close the file:
     root.close();
   } else {
